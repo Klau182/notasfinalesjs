@@ -1,3 +1,6 @@
+//se usa use strict para uso seguro
+//todas las variables deben estar declaradas
+"use strict"
 document.write(`
 <div class="container mx-auto mt-4">
     <div class="row">
@@ -10,7 +13,7 @@ document.write(`
     </div>
 </div>
 `);
-// datos del estudiante
+//  aqui se ingresan los datos del estudiante
 let nombre = prompt("Hola, ingresa tu nombre");
 let carrera = prompt("¿Cual es tu carrera?");
 //notas y promedio del primer ramo ingresado
@@ -87,7 +90,6 @@ document.write(`
     </table>
 </div>
 `);
-
 //parrafo final
 document.write(`
 <div class="container mx-auto">
