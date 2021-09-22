@@ -1,6 +1,6 @@
 # Ejercicio Notas Finales con Javascript
 
-La aplicacion empieza de la siguiente manera:
+La aplicación empieza de la siguiente manera:
 
 1. Ingresar tu nombre
 
